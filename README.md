@@ -152,6 +152,4 @@ We welcome contributions to improve JarvisAI with Gemini Integration.
 
 ---
 
----
-
 We look forward to your contributions and feedback to make JarvisAI even better! 😊
