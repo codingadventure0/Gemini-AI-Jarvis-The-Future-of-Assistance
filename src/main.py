@@ -10,20 +10,35 @@ import subprocess # Importing subprocess library to run system commands (e.g., t
 import json # Importing json to work with JSON data (parse, load, dump)
 import smtplib # Importing smtplib to send emails using SMTP protocol
 import psutil # Importing psutil to retrieve information on system processes and resource usage (e.g., CPU, memory)
-import platform
-import spacy
-from datetime import datetime
-from bs4 import BeautifulSoup
+import platform # Importing platform to get information about the current operating system and platform-specific details
+import spacy # Importing spaCy for advanced natural language processing tasks
+from datetime import datetime # Importing datetime to handle and format date and time
+from bs4 import BeautifulSoup # Importing BeautifulSoup from bs4 to parse HTML and XML documents, typically used for web scraping
+
+# Importing MIMEText and MIMEMultipart for creating email messages with plain text or attachments
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+
+# Importing Google Generative AI (genai) library for generating text or responses using AI models
 import google.generativeai as genai
+
+# Importing pywhatkit for automating tasks such as sending WhatsApp messages, playing YouTube videos, etc.
 import pywhatkit
+
+# Importing Spotipy and SpotifyOAuth to interact with the Spotify API for managing music and playlists
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+
+# Importing OpenCV (cv2) for computer vision tasks (e.g., processing images, detecting faces, etc.)
 import cv2
+
+# Importing pyautogui for automating mouse and keyboard actions, e.g., taking screenshots
 import pyautogui # for taking screenshot
+
+# Importing fuzzywuzzy and process for string matching and comparison, commonly used for searching and opening applications
 from fuzzywuzzy import fuzz, process  # for opening application in pc
-import random
+
+import random # Importing random for generating random numbers or choosing random elements
 
 
 #Its take administrative permission if needed some where
