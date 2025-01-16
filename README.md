@@ -22,6 +22,67 @@
 12. **Exit Commands**: Gracefully shuts down based on user prompts.
 
 ---
+## 💡 How to Start and Stop Jarvis
+
+To initiate and stopping the JarvisAI, simply run the program and give the commands:
+
+#### Starting Command for jarvis:
+- "jarvis ready to work"
+
+#### Stopping Command for Jarvis:
+- "jarvis stop responding"
+
+---
+
+### 📜 General Predefined Commands
+
+Here’s a categorized list of predefined commands that JarvisAI can recognize and respond to:
+
+#### **Greetings/General**
+- "Hi"
+- "Hello"
+- "Good morning"
+- "Good evening"
+- "who are you"
+
+#### **Weather**
+- "Weather today/tomorrow?"
+
+#### **Web Search**
+- "Search [query]."
+
+#### **System Management**
+- "system stats"
+- "Open [application name]."
+- "Shutdown PC."
+- "Restart PC."
+- "Take Screenshot."
+- "Lock my PC."
+
+#### **Entertainment**
+- "Play music [music name]."
+- "Entertain me."
+- "feeling lonely."
+- "feeling sad"
+
+#### **Device Control**
+- "On/Off my Wi-Fi."
+- "On/Off Bluetooth."
+- "Show running applications."
+
+#### **Developer Information**
+- "who is your developer"
+- "Who created you?"
+- "Tell me about your developer."
+- "who is your developer"
+
+#### **Exit**
+- "Exit."
+- "Goodbye."
+- "Quit."
+- "Stoped."
+
+---
 
 ## 🔧 Installation
 
