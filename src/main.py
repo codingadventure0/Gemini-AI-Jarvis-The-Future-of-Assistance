@@ -1,15 +1,15 @@
 # Jarvis Program
-import speech_recognition as sr
-import pyttsx3
-import webbrowser
-import os
-import time
-import requests
-import wikipedia
-import subprocess
-import json
-import smtplib
-import psutil
+import speech_recognition as sr # Importing the speech recognition library for converting speech to text
+import pyttsx3 # Importing the pyttsx3 library for text-to-speech conversion
+import webbrowser # Importing webbrowser to open URLs in the default web browser
+import os # Importing the os library to interact with the operating system (file operations, environment variables, etc.)
+import time # Importing time library to manage time-related tasks (e.g., sleep, timestamps)
+import requests # Importing requests library for making HTTP requests to interact with APIs or download content from the web
+import wikipedia # Importing the wikipedia library to fetch articles from Wikipedia
+import subprocess # Importing subprocess library to run system commands (e.g., to open applications or run scripts)
+import json # Importing json to work with JSON data (parse, load, dump)
+import smtplib # Importing smtplib to send emails using SMTP protocol
+import psutil # Importing psutil to retrieve information on system processes and resource usage (e.g., CPU, memory)
 import platform
 import spacy
 from datetime import datetime
