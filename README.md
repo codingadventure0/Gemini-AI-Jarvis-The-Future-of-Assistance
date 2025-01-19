@@ -5,6 +5,13 @@
 
 ---
 
+## 🚨 Important Note
+
+**JarvisAI runs continuously in the background and is always in listening mode.**  
+This means it is always ready to process commands or queries as soon as it hears them. Once activated, it listens for predefined wake words or commands and responds accordingly. Users should ensure that the environment is suitable for such a feature to avoid unintended activations.
+
+---
+
 ## 🚀 Features
 
 ### Core Features
