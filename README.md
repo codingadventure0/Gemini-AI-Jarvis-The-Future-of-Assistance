@@ -214,3 +214,5 @@ We welcome contributions to improve JarvisAI with Gemini Integration.
 ---
 
 We look forward to your contributions and feedback to make JarvisAI even better! 😊
+
+With the **continuous listening** feature, **JarvisAI** enhances user convenience but should be managed responsibly to ensure appropriate use.
